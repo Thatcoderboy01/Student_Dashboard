@@ -138,7 +138,7 @@ Make sure you have the following installed:
 
 ## File Structure
 
-```
+```bash
 /student-dashboard
 |-- /frontend
 |   |-- /src
@@ -148,7 +148,7 @@ Make sure you have the following installed:
 |       |-- App.js
 |       |-- index.js
 |-- .env
-
+```
 ## Firebase Authentication Setup
 
 ### Email/Password Authentication

@@ -67,7 +67,7 @@ The **Student Dashboard** is the main page after login. It displays important ac
 ## Live Demo
 
 You can view the live application here:
-[*Student Dashboard - Live Demo*](https://your-live-link.com](https://student-dashboard-beta-ruby.vercel.app/)
+[*Student Dashboard - Live Demo*](https://student-dashboard-beta-ruby.vercel.app/)
 
 
 ## Project Setup

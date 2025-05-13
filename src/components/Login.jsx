@@ -102,7 +102,7 @@ const Login = () => {
         <div className="w-full md:w-1/2 p-8">
           <div className="flex items-center mb-6">
             <div className="w-4 h-4 bg-blue-600 rounded-full mr-2"></div>
-            <span className="font-semibold text-xl text-gray-800">LOGO</span>
+            <span className="font-semibold text-xl font-bold text-gray-800">Student Dashboard</span>
           </div>
 
           <h2 className="text-3xl font-bold text-gray-800 mb-4">LOGIN</h2>
